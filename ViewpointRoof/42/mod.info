@@ -1,0 +1,9 @@
+name=Viewpoint - Building Fix
+id=ViewpointRoof
+description=Patch for Project Viewpoint: every building gets a watertight roof and gable walls generated from its room plan, plus ceilings, windows from outside, and the room side of walls in first person.
+require=\Viewpoint
+modversion=2.3.0
+versionMin=42.21
+javaJarFile=media/java/client/ViewpointRoofFix.jar
+javaPkgName=vproof
+ZBVersionMin=2.0.0
