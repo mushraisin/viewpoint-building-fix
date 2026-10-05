@@ -33,7 +33,7 @@ Project Zomboid's maps are drawn for an isometric camera, so they only contain w
 
 ## Installation
 
-1. Copy the `ViewpointRoof` folder into `%UserProfile%\Zomboid\mods`.
+1. Download `ViewpointRoof-x.x.x.zip` from [Releases](https://github.com/mushraisin/viewpoint-building-fix/releases/latest) and extract the `ViewpointRoof` folder into `%UserProfile%\Zomboid\mods`.
 2. Enable **Viewpoint - Building Fix** together with Viewpoint and ZombieBuddy.
 3. On the first launch, allow the mod in the ZombieBuddy prompt (it loads Java code).
 
